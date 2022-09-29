@@ -17,7 +17,7 @@ The dataset used is from Kaggle and can be [found here](https://www.kaggle.com/d
 
 The figures show that the USA team continues to increase the number of gold medals they take home over the years.
 
-I chose to look only at the top 23 countries by population - I used a few websites to confirm this - to make it easier to see if there was an increase in the number of gold medals taken home by the USA over the years. I colored by the country because it makes it easier to identify specific countries and I initially was trying to work in the event_gender variable but the legend ended up being larger than I wanted because it listed out each country, gender combination.
+I chose to look only at the top 23 countries by population - I used a few websites to confirm this - to make it easier to see if there was an increase in the number of gold medals taken home by the USA over the years. I colored by the country because it makes it easier to identify specific countries and I initially was trying to work in the event_gender variable but the legend ended up being larger than I wanted because it listed out each country x gender combination.
 
 ## Data Clean-Up
 
